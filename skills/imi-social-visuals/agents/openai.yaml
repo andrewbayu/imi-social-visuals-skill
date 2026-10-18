@@ -1,0 +1,4 @@
+interface:
+  display_name: "IMI Social Visuals"
+  short_description: "Create IMI social artwork and restyle real photos"
+  default_prompt: "Use $imi-social-visuals to create an Inovasi Maritim social post in the requested format."
